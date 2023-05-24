@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>אנפמל!</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="./main.js"></script>
+  <script src="https://kit.fontawesome.com/182055fd1f.js" crossorigin="anonymous"></script>
+</head>
+<body  onkeydown="lib.handleKeyDown(event)">
+  
+  <audio id="anthom_player"></audio>
+  <header>
+    <h1>אנפמל עברית</h1>
+  </header>
+
+  <main>
+    <h1 id="winText"></h1>
+    <h1 id="remainingTime"></h1>
+    <div id="startButtonContainer">
+    <button onclick="lib.play()" id="play_button">התחל</button></div>
+    <input readonly type="text" id="country_input" placeholder="שם של מדינה" dir="rtl" >
+    <h2 id = "lose"></h2>
+    
+    <div id="keyboard">
+      <div>
+        <button onclick="lib.handleKey('ק')" id="key-ק" class="key">ק</button>
+        <button onclick="lib.handleKey('ר')" id="key-ר" class="key">ר</button>
+        <button onclick="lib.handleKey('א')" id="key-א" class="key">א</button>
+        <button onclick="lib.handleKey('ט')" id="key-ט" class="key">ט</button>
+        <button onclick="lib.handleKey('ו')" id="key-ו" class="key">ו</button>
+        <button onclick="lib.handleKey('ן')" id="key-ן" class="key">ן</button>
+        <button onclick="lib.handleKey('ם')" id="key-ם" class="key">ם</button>
+        <button onclick="lib.handleKey('פ')" id="key-פ" class="key">פ</button>
+        
+      </div>
+      <div>
+        <button onclick="lib.handleKey('ש')" id="key-ש" class="key">ש</button>
+        <button onclick="lib.handleKey('ד')" id="key-ד" class="key">ד</button>
+        <button onclick="lib.handleKey('ג')" id="key-ג" class="key">ג</button>
+        <button onclick="lib.handleKey('כ')" id="key-כ" class="key">כ</button>
+        <button onclick="lib.handleKey('ע')" id="key-ע" class="key">ע</button>
+        <button onclick="lib.handleKey('י')" id="key-י" class="key">י</button>
+        <button onclick="lib.handleKey('ח')" id="key-ח" class="key">ח</button>
+        <button onclick="lib.handleKey('ל')" id="key-ל" class="key">ל</button>
+        <button onclick="lib.handleKey('ך')" id="key-ך" class="key">ך</button>
+        <button onclick="lib.handleKey('ף')" id="key-ף" class="key">ף</button>
+        
+      </div>
+      <div>
+        <button onclick="lib.handleKey('ז')" id="key-ז" class="key">ז</button>
+        <button onclick="lib.handleKey('ס')" id="key-ס" class="key">ס</button>
+        <button onclick="lib.handleKey('ב')" id="key-ב" class="key">ב</button>
+        <button onclick="lib.handleKey('ה')" id="key-ה" class="key">ה</button>
+        <button onclick="lib.handleKey('נ')" id="key-נ" class="key">נ</button>
+        <button onclick="lib.handleKey('מ')" id="key-מ" class="key">מ</button>
+        <button onclick="lib.handleKey('צ')" id="key-צ" class="key">צ</button>
+        <button onclick="lib.handleKey('ת')" id="key-ת" class="key">ת</button>
+        <button onclick="lib.handleKey('delete')" type="button" data-key="←" id="key-delete" aria-label="backspace" class="key"><i class="fa-solid fa-delete-left" style="color: #C0C0C0;"></i></button></div>
+      </div>
+    
+    
+      <div>
+        <button id="enter_button" onclick="lib.getInputValue()">הכנס</button>
+        <button onclick="lib.handleKey(' ')" id="key-space" class="key">רווח</button>
+      </div>
+    </div>
+  </main>
+
+  
+
+
+
+  <footer>
+   
+    <h6 id = "answer"></h6>
+  </footer>
+  
+ 
+  
+</body>
+</html>

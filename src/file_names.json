@@ -1,0 +1,524 @@
+[
+  {
+    "name": "afghanistan.mp3"
+  },
+  {
+    "name": "albania.mp3"
+  },
+  {
+    "name": "algeria.mp3"
+  },
+  {
+    "name": "angola.mp3"
+  },
+  {
+    "name": "antigua-and-barbuda.mp3"
+  },
+  {
+    "name": "argentina.mp3"
+  },
+  {
+    "name": "armenia.mp3"
+  },
+  {
+    "name": "aruba.mp3"
+  },
+  {
+    "name": "australia.mp3"
+  },
+  {
+    "name": "austria.mp3"
+  },
+  {
+    "name": "bahamas.mp3"
+  },
+  {
+    "name": "bahrain.mp3"
+  },
+  {
+    "name": "bangladesh.mp3"
+  },
+  {
+    "name": "barbados.mp3"
+  },
+  {
+    "name": "belarus.mp3"
+  },
+  {
+    "name": "belgium.mp3"
+  },
+  {
+    "name": "belize.mp3"
+  },
+  {
+    "name": "benin.mp3"
+  },
+  {
+    "name": "bolivia.mp3"
+  },
+  {
+    "name": "bosnia-herzegovina.mp3"
+  },
+  {
+    "name": "botswana.mp3"
+  },
+  {
+    "name": "brazil.mp3"
+  },
+  {
+    "name": "brunei.mp3"
+  },
+  {
+    "name": "bulgaria.mp3"
+  },
+  {
+    "name": "burkina-faso.mp3"
+  },
+  {
+    "name": "cambodia.mp3"
+  },
+  {
+    "name": "cameroon.mp3"
+  },
+  {
+    "name": "canada.mp3"
+  },
+  {
+    "name": "cape-verde.mp3"
+  },
+  {
+    "name": "central-african-republic.mp3"
+  },
+  {
+    "name": "chad.mp3"
+  },
+  {
+    "name": "chile.mp3"
+  },
+  {
+    "name": "china.mp3"
+  },
+  {
+    "name": "colombia.mp3"
+  },
+  {
+    "name": "comoros.mp3"
+  },
+  {
+    "name": "congo.mp3"
+  },
+  {
+    "name": "cook-islands.mp3"
+  },
+  {
+    "name": "costa-rica.mp3"
+  },
+  {
+    "name": "cote-divoire.mp3"
+  },
+  {
+    "name": "croatia.mp3"
+  },
+  {
+    "name": "cuba.mp3"
+  },
+  {
+    "name": "czech-republic.mp3"
+  },
+  {
+    "name": "denmark.mp3"
+  },
+  {
+    "name": "djibouti.mp3"
+  },
+  {
+    "name": "dominica.mp3"
+  },
+  {
+    "name": "dominican-republic.mp3"
+  },
+  {
+    "name": "east-timor.mp3"
+  },
+  {
+    "name": "ecuador.mp3"
+  },
+  {
+    "name": "egypt.mp3"
+  },
+  {
+    "name": "el-salvador.mp3"
+  },
+  {
+    "name": "eritrea.mp3"
+  },
+  {
+    "name": "estonia.mp3"
+  },
+  {
+    "name": "ethiopia.mp3"
+  },
+  {
+    "name": "european-union.mp3"
+  },
+  {
+    "name": "fiji.mp3"
+  },
+  {
+    "name": "finland.mp3"
+  },
+  {
+    "name": "france.mp3"
+  },
+  {
+    "name": "gabon.mp3"
+  },
+  {
+    "name": "gambia.mp3"
+  },
+  {
+    "name": "georgia.mp3"
+  },
+  {
+    "name": "germany.mp3"
+  },
+  {
+    "name": "ghana.mp3"
+  },
+  {
+    "name": "greece.mp3"
+  },
+  {
+    "name": "guatemala.mp3"
+  },
+  {
+    "name": "guinea-bissau.mp3"
+  },
+  {
+    "name": "guinea.mp3"
+  },
+  {
+    "name": "guyana.mp3"
+  },
+  {
+    "name": "haiti.mp3"
+  },
+  {
+    "name": "honduras.mp3"
+  },
+  {
+    "name": "hungary.mp3"
+  },
+  {
+    "name": "iceland.mp3"
+  },
+  {
+    "name": "india.mp3"
+  },
+  {
+    "name": "indonesia.mp3"
+  },
+  {
+    "name": "iraq.mp3"
+  },
+  {
+    "name": "ireland.mp3"
+  },
+  {
+    "name": "israel.mp3"
+  },
+  {
+    "name": "italy.mp3"
+  },
+  {
+    "name": "jamaica.mp3"
+  },
+  {
+    "name": "japan.mp3"
+  },
+  {
+    "name": "jordan.mp3"
+  },
+  {
+    "name": "kazakhstan.mp3"
+  },
+  {
+    "name": "kenya.mp3"
+  },
+  {
+    "name": "south-korea.mp3"
+  },
+  {
+    "name": "kosovo.mp3"
+  },
+  {
+    "name": "kuwait.mp3"
+  },
+  {
+    "name": "kyrgyzstan.mp3"
+  },
+  {
+    "name": "laos.mp3"
+  },
+  {
+    "name": "latvia.mp3"
+  },
+  {
+    "name": "lebanon.mp3"
+  },
+  {
+    "name": "lesotho.mp3"
+  },
+  {
+    "name": "liberia.mp3"
+  },
+  {
+    "name": "libya.mp3"
+  },
+  {
+    "name": "liechtenstein.mp3"
+  },
+  {
+    "name": "lithuania.mp3"
+  },
+  {
+    "name": "luxembourg.mp3"
+  },
+  {
+    "name": "macedonia.mp3"
+  },
+  {
+    "name": "madagascar.mp3"
+  },
+  {
+    "name": "malawi.mp3"
+  },
+  {
+    "name": "malaysia.mp3"
+  },
+  {
+    "name": "maldives.mp3"
+  },
+  {
+    "name": "mali.mp3"
+  },
+  {
+    "name": "malta.mp3"
+  },
+  {
+    "name": "marshall-islands.mp3"
+  },
+  {
+    "name": "mauritania.mp3"
+  },
+  {
+    "name": "mauritius.mp3"
+  },
+  {
+    "name": "mexico.mp3"
+  },
+  {
+    "name": "micronesia.mp3"
+  },
+  {
+    "name": "moldova.mp3"
+  },
+  {
+    "name": "monaco.mp3"
+  },
+  {
+    "name": "montenegro.mp3"
+  },
+  {
+    "name": "morocco.mp3"
+  },
+  {
+    "name": "mozambique.mp3"
+  },
+  {
+    "name": "myanmar.mp3"
+  },
+  {
+    "name": "namibia.mp3"
+  },
+  {
+    "name": "nepal.mp3"
+  },
+  {
+    "name": "netherlands-antilles.mp3"
+  },
+  {
+    "name": "netherlands.mp3"
+  },
+  {
+    "name": "new-zealand.mp3"
+  },
+  {
+    "name": "nicaragua.mp3"
+  },
+  {
+    "name": "nigeria.mp3"
+  },
+  {
+    "name": "northern-mariana-islands.mp3"
+  },
+  {
+    "name": "norway.mp3"
+  },
+  {
+    "name": "oman.mp3"
+  },
+  {
+    "name": "pakistan.mp3"
+  },
+  {
+    "name": "palau.mp3"
+  },
+  {
+    "name": "panama.mp3"
+  },
+  {
+    "name": "papua-new-guinea.mp3"
+  },
+  {
+    "name": "peru.mp3"
+  },
+  {
+    "name": "philippines.mp3"
+  },
+  {
+    "name": "poland.mp3"
+  },
+  {
+    "name": "portugal.mp3"
+  },
+  {
+    "name": "puerto-rico.mp3"
+  },
+  {
+    "name": "qatar.mp3"
+  },
+  {
+    "name": "romania.mp3"
+  },
+  {
+    "name": "russia.mp3"
+  },
+  {
+    "name": "rwanda.mp3"
+  },
+  {
+    "name": "sao-tome-and-principe.mp3"
+  },
+  {
+    "name": "saudi-arabia.mp3"
+  },
+  {
+    "name": "senegal.mp3"
+  },
+  {
+    "name": "serbia.mp3"
+  },
+  {
+    "name": "seychelles.mp3"
+  },
+  {
+    "name": "sierra-leone.mp3"
+  },
+  {
+    "name": "slovak-republic.mp3"
+  },
+  {
+    "name": "slovenia.mp3"
+  },
+  {
+    "name": "somalia.mp3"
+  },
+  {
+    "name": "south-africa.mp3"
+  },
+  {
+    "name": "south-sudan.mp3"
+  },
+  {
+    "name": "spain.mp3"
+  },
+  {
+    "name": "sri-lanka.mp3"
+  },
+  {
+    "name": "st-kitts-and-nevis.mp3"
+  },
+  {
+    "name": "sudan.mp3"
+  },
+  {
+    "name": "swaziland.mp3"
+  },
+  {
+    "name": "sweden.mp3"
+  },
+  {
+    "name": "switzerland.mp3"
+  },
+  {
+    "name": "tajikistan.mp3"
+  },
+  {
+    "name": "tanzania.mp3"
+  },
+  {
+    "name": "togo.mp3"
+  },
+  {
+    "name": "trinidad-and-tobago.mp3"
+  },
+  {
+    "name": "tunisia.mp3"
+  },
+  {
+    "name": "turkey.mp3"
+  },
+  {
+    "name": "turkmenistan.mp3"
+  },
+  {
+    "name": "uganda.mp3"
+  },
+  {
+    "name": "ukraine.mp3"
+  },
+  {
+    "name": "united-arab-emirates.mp3"
+  },
+  {
+    "name": "united-kingdom.mp3"
+  },
+  {
+    "name": "united-states.mp3"
+  },
+  {
+    "name": "uruguay.mp3"
+  },
+  {
+    "name": "uzbekistan.mp3"
+  },
+  {
+    "name": "vanuatu.mp3"
+  },
+  {
+    "name": "vatican.mp3"
+  },
+  {
+    "name": "venezuela.mp3"
+  },
+  {
+    "name": "vietnam.mp3"
+  },
+  {
+    "name": "virgin-islands.mp3"
+  },
+  {
+    "name": "yemen.mp3"
+  }
+]
