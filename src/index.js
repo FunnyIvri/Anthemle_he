@@ -76,11 +76,13 @@ function handleAudioEnd() {
 
 
 export function getInputValue() {
+  console.log("asd")
     var input = document.getElementById('country_input');
     var country = input.value;
     var answer = document.getElementById('answer');
     var correct_country = answer.textContent
     if(country == correct_country){win()}
+    else{wrong()}
     }
 
 
